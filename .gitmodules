@@ -1,0 +1,3 @@
+[submodule "external/ghidra"]
+	path = external/ghidra
+	url = git@github.com:MakeMHz/ghidra.git
